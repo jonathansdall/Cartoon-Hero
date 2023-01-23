@@ -23,6 +23,7 @@ header h1{
 }
 
 header img{
+	margin-top: 20px;
 	border-radius: 150px;
     width: 300px;
     border: 7.5px solid darkblue;
